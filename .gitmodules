@@ -1,4 +1,7 @@
-[submodule "veil43blog/themes/hugo-blog-awesome"]
-	path = veil43blog/themes/hugo-blog-awesome
-	url = https://github.com/hugo-sid/hugo-blog-awesome.git
+[submodule "veil43blog/public"]
+	path = veil43blog/public
+	url = git@github.com:Veil43/veil43.github.io.git
 	branch = main
+[submodule "veil43blog/themes/hugo-PaperMod"]
+	path = veil43blog/themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
