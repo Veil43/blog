@@ -1,4 +1,0 @@
-baseURL = 'https://veil43.github.io/'
-languageCode = 'en-us'
-title = 'Veil43 blog'
-theme = 'hugo-PaperMod'
